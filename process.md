@@ -6,7 +6,7 @@ Microprofile is growing and evolving, guided by a community-driven process refer
 
 ## Scope
 
-The Microprofile evolution process covers all changes to the Microprofile, including new profile extensions and APIs (no matter how small), changes to existing features or APIs, removal of existing features, and so on. Smaller changes, such as bug fixes, optimizations, or diagnostic improvements can be contributed via the normal contribution process; see [Contributing to Microprofile](https://Microprofile.org/community/#contributing).
+The Microprofile evolution process covers all changes to the Microprofile, including new profile extensions and APIs (no matter how small), changes to existing features or APIs, removal of existing features, and so on. Smaller changes, such as bug fixes, optimizations, or diagnostic improvements can be contributed via the normal contribution process; see [Contributing to Microprofile](https://microprofile.io/community/#contributing).
 
 ## Goals
 
@@ -24,7 +24,7 @@ the Microprofile on the [
 mailing list]((https://groups.google.com/forum/#!forum/microprofile)). Before posting a review,
 please see the section "What goes into a review?" below.
 
-The Microprofile [core team](https://Microprofile.org/community/#core-team) is
+The Microprofile [core team](https://microprofile.io/community/#core-team) is
 responsible for the strategic direction of Microprofile. Core team members
 initiate, participate in, and manage the public review of proposals
 and have the authority to accept or reject changes to Microprofile.
@@ -51,7 +51,7 @@ Please state explicitly whether you believe that the proposal should be accepted
 * **Socialize the idea**: propose a rough sketch of the idea on the [mailing list](https://groups.google.com/forum/#!forum/microprofile), the problems it solves, what the solution looks like, etc., to gauge interest from the community.
 * **Develop the proposal**: expand the rough sketch into a complete proposal, using the [proposal template](0000-template.md), and continue to refine the proposal on the evolution mailing list. Prototyping an implementation and its uses along with the proposal is encouraged, because it helps ensure both technical feasibility of the proposal as well as validating that the proposal solves the problems it is meant to solve.
 * **Request a review**: initiate a pull request to the [Microprofile repository](https://github.com/microprofile/evolution) to indicate to the core team that you would like the proposal to be reviewed. When the proposal is sufficiently detailed and clear, and addresses feedback from earlier discussions of the idea, the pull request will be accepted. The proposal will be assigned a proposal number as well as a core team member to manage the review.
-* **Address feedback**: in general, and especially [during the review period][proposal-status], be responsive to questions and feedback about the proposal.
+* **Address feedback**: in general, and especially [during the review period](https://microprofile.io/current-reviews), be responsive to questions and feedback about the proposal.
 
 ## Review process
 
