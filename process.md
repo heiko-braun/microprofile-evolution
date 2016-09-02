@@ -2,7 +2,7 @@
 
 Microprofile is an open forum to optimize Enterprise Java for a microservices architecture by innovating across multiple implementations and collaborating on common areas of interest with a goal of standardization.
 
-Microprofile is growing and evolving, guided by a community-driven process referred to as the Microprofile evolution process. This document outlines the Microprofile evolution process and how a feature grows from a rough idea into something that can improve the Microprofile development experience for millions of programmers.
+Microprofile is growing and evolving, guided by a community-driven process referred to as the Microprofile evolution process. This document outlines the Microprofile evolution process and how a feature grows from a rough idea into something that can improve the microservice development experience for millions of programmers.
 
 ## Scope
 
