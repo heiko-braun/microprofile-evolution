@@ -15,7 +15,7 @@ A short description of what the feature is. Try to keep it to a
 single-paragraph "elevator pitch" so the reader understands what
 problem this proposal is addressing.
 
-Microprpofile-evolution thread: [Discussion thread topic for that proposal](https://groups.google.com/forum/#!forum/microprofile)
+Mailinglist thread: [Discussion thread topic for that proposal](https://groups.google.com/forum/#!forum/microprofile)
 
 ## Motivation
 
@@ -23,7 +23,7 @@ Describe the problems that this proposal seeks to address. If the
 problem is that some common pattern is currently hard to express, show
 how one can currently get a similar effect and describe its
 drawbacks. If it's completely new functionality that cannot be
-emulated, motivate why this new functionality would help Java EE developers to create and run microservice architectures.
+emulated, motivate why this new functionality would help Java EE developers to develop and operate microservice architectures.
 
 ## Proposed solution
 
