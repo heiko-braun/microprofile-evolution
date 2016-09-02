@@ -57,7 +57,7 @@ Please state explicitly whether you believe that the proposal should be accepted
 
 The review process for a particular proposal begins when a member of
 the core team accepts a pull request of a new or updated proposal into
-the [Microprofile repository][Microprofile-repo]. That core team
+the [Microprofile repository](https://github.com/microprofile/evolution). That core team
 member becomes the *review manager* for the proposal. The proposal
 is assigned a proposal number (if it is a new proposal), then enters
 the review queue.
@@ -68,7 +68,7 @@ particularly large or complex proposals.
 
 When the scheduled review period arrives, the review manager will post
 the proposal to the [Microprofile mailing
-list][Microprofile-mailing-list] with the subject "[Review]"
+list](https://groups.google.com/forum/#!forum/microprofile) with the subject "[Review]"
 followed by the proposal title and update the list of active
 reviews. To avoid delays, it is important that the proposal authors be
 available to answer questions, address feedback, and clarify their
@@ -79,7 +79,7 @@ the proposal. The review manager is responsible for determining
 consensus among the core team members, then reporting their decision
 to the proposal authors and mailing list. The review manager will
 update the proposal's state in the [Microprofile
-repository][Microprofile-repo] to reflect that decision.
+repository](https://github.com/microprofile/evolution) to reflect that decision.
 
 ## Proposal states
 A given proposal can be in one of several states:
