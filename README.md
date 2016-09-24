@@ -1,6 +1,6 @@
 # Microprofile Evolution
 
-**Before you initiate a pull request**, please read the process document. Ideas should be thoroughly discussed on the [microprofile mailing list](https://groups.google.com/forum/#!forum/microprofile) first.
+**Before you initiate a pull request** to [microprofile-samples](https://github.com/microprofile/microprofile-samples), which is used to share ideas and examples around the initiative, please read the process document. Ideas should be thoroughly discussed on the [microprofile mailing list](https://groups.google.com/forum/#!forum/microprofile) first.
 
 This repository tracks the ongoing evolution of Microprofile. It contains:
 
@@ -18,10 +18,12 @@ historical purposes, but are not necessarily indicative of the
 features shipped. The release notes for each shipped version are the
 definitive list of notable changes in each release.
 
-## Development major version:  Microprofile 1.0
+## Development major version:  Microprofile 1.1
+Expected release date: End of 2016
 
-Expected release date: Late 2016
+The primary goal is to identify issues faced when developing the reference infrastructure and focus on solving limited number of most important problems to narrow the focus and keep fast and steady progress.
 
-The primary goal of this release is to  ...
+## Latest released version: Microprofile 1.0
+Release date: September 2016
 
-[...]
+The primary goal of this release is to establish a minimal common base for development of microservices with enterprise Java specifications. This should provide a base for further iterative development of the MicroProfile platform. 
